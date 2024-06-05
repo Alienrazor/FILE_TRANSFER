@@ -78,7 +78,7 @@ def annu():
 	malware()
 
 def bangla():
-    os.system('xdg-open https://www.youtube/Alienrazor')
+    os.system('xdg-open https://youtu.be/PfswwXlkAkc?si=BUzRENeUIFGUVteI')
 
 #_________[ FAKE IDS ]_________>>
 #def fakke
